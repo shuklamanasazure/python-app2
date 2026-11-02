@@ -1,0 +1,5 @@
+Hi! This is a test file
+
+# values.app_name and values.app_env coming from template.yaml
+Component ID: python-app2
+Environment: dev
